@@ -1,0 +1,7 @@
+skin_type,1st,2nd,3rd,4th
+Type I,Winter,Summer,Spring,Autumn
+Type II,Winter,Spring,Summer,Autumn
+Type III,Spring,Autumn,Summer,Winter
+Type IV,Autumn,Summer,Spring,Winter
+Type V,Winter,Summer,Autumn,Spring
+Type VI,Winter,Summer,Autumn,Spring
